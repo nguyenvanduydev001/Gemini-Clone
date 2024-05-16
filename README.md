@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # Run project gemimi
 
-- npm run dev
+### npm run dev
