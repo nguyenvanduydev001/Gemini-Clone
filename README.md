@@ -15,4 +15,5 @@ Currently, two official plugins are available:
 
 ### `npm run dev`
 
+[Live demo](https://gemini-clone-fawn.vercel.app/)
 
