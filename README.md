@@ -13,7 +13,9 @@ Currently, two official plugins are available:
 
 ## Running projects *Gemimi clone*
 
- `npm run dev`
+ ```bash 
+npm run dev
+```
 
 [Live demo](https://gemini-clone-fawn.vercel.app/)
 
